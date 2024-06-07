@@ -76,10 +76,17 @@ ul li{
 display: inline-block;
 text-decoration: none;
 color: black;
+<<<<<<< HEAD
 border-radius: 20px;
 border: 1px solid #f5f3f3;
 padding: 12px 34px;
 font-size: 40px;
+=======
+border-radius: 10px;
+border: 1px solid #f5f3f3;
+padding: 12px 34px;
+font-size: 20px;
+>>>>>>> c6e31519275b75047748f818298255d9d900d141
 background: rgb(21, 169, 228);
 position: relative;
 cursor: pointer;
@@ -93,8 +100,13 @@ transition: 1s;
 .sci{
 align-items: center;
 text-align: center;
+<<<<<<< HEAD
 padding: 50px;
 
+=======
+padding: 15px;
+background-color:rgb(5, 245, 5);
+>>>>>>> c6e31519275b75047748f818298255d9d900d141
 
 }
 .topnav {
@@ -103,12 +115,21 @@ background-color: #06e62b;
 }
 
 .topnav a {
+<<<<<<< HEAD
 float: right;
 color: #f2f2f2;
 text-align: center;
 padding: 26px 24px;
 text-decoration: none;
 font-size: 40px;
+=======
+float: left;
+color: #f2f2f2;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+font-size: 17px;
+>>>>>>> c6e31519275b75047748f818298255d9d900d141
 }
 
 .topnav a:hover {
